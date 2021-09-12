@@ -5,7 +5,7 @@ module.exports = {
     title: 'Virginia Mthimunye',
     description:
       'Virginia Mthimunye is an aspiring software development engineer.',
-    siteUrl: '', // No trailing slash allowed!
+    siteUrl: 'https://netlify/ginamorongwa.com', // No trailing slash allowed!
     image: '/og.png', // //Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
