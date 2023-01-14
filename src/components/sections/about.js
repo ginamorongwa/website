@@ -130,7 +130,21 @@ const About = () => {
   const skills = [
     'Python', 
     'Java', 
-    'C/C++', 'JavaScript', 'React', 'Haskel', 'HTML5', 'CSS', 'Git', 'MySQL', 'UML', 'Linux', 'Windows', 'Android App Development'];
+    'C/C++', 
+    'JavaScript', 
+    'React', 
+    'Power Apps',
+    'Power BI',
+    'Power Automate',
+    'Haskel', 
+    'HTML5', 
+    'CSS', 
+    'Git', 
+    'MySQL', 
+    'UML', 
+    'Linux', 
+    'Windows', 
+    'Android App Development'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

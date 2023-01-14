@@ -73,11 +73,8 @@ const Hero = () => {
         .
       </p> */}
       <p>
-        Graduate with a bachelor’s degree in Computer Science and Computer Engineering currently doing Honours in Computer Science.         
-        Well versed in numerous programming languages including Python, Java, C/C++. 
-        Passionate about technology with interests in AI, machine learning, software development, android app development and solution architecture.         
-        I like to watch movies/series and listen to music. 
-        To clear my head I usually go for long walks.
+        {/* Graduate with a bachelor’s degree in Computer Science and Computer Engineering currently doing Honours in Computer Science. Well versed in numerous programming languages including Python, Java, C/C++. Passionate about technology with interests in AI, machine learning, software development, android app development and solution architecture. I like to watch movies/series and listen to music. To clear my head I usually go for long walks. */}
+        I am a recent graduate with a Bachelor Honors degree in Computer Science. I work as a graduate trainee in a IT Risk environment for Nedbank. I am highly motivated to constantly develop my skills and grow professionally. I am well versed in numerous programming languages including Python, Java, C/C++, etc. My passion lies in AI, machine learning, software development, app development, automation and I have an interest in data science. I am looking for a challenging environment that is exciting, innovative, and offers room for growth. I play games, do long walks, watch movies and series, listen to music, and play the flute in my leisure time.
       </p>
 
     </>
